@@ -32,6 +32,7 @@ body {
   border: 1px solid #f5f5f5;
   background-color: #f3d4ac;
   padding: 20px;
+  margin: 0;
 }
 
 .back-to-top {
@@ -39,3 +40,7 @@ body {
   bottom: 0;
   right: 0;
 }
+
+/* .col-xs-12{
+    margin: 20px;
+} */
